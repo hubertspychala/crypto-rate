@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/crypto-rate/static/css/main.66febb5e.chunk.css",
+    "main.js": "/crypto-rate/static/js/main.c3711412.chunk.js",
+    "main.js.map": "/crypto-rate/static/js/main.c3711412.chunk.js.map",
+    "runtime-main.js": "/crypto-rate/static/js/runtime-main.34959e87.js",
+    "runtime-main.js.map": "/crypto-rate/static/js/runtime-main.34959e87.js.map",
+    "static/js/2.00e7e59d.chunk.js": "/crypto-rate/static/js/2.00e7e59d.chunk.js",
+    "static/js/2.00e7e59d.chunk.js.map": "/crypto-rate/static/js/2.00e7e59d.chunk.js.map",
+    "static/js/3.20b02d11.chunk.js": "/crypto-rate/static/js/3.20b02d11.chunk.js",
+    "static/js/3.20b02d11.chunk.js.map": "/crypto-rate/static/js/3.20b02d11.chunk.js.map",
+    "index.html": "/crypto-rate/index.html",
+    "static/css/main.66febb5e.chunk.css.map": "/crypto-rate/static/css/main.66febb5e.chunk.css.map",
+    "static/js/2.00e7e59d.chunk.js.LICENSE.txt": "/crypto-rate/static/js/2.00e7e59d.chunk.js.LICENSE.txt",
+    "static/media/logo.c9f33461.svg": "/crypto-rate/static/media/logo.c9f33461.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.34959e87.js",
+    "static/js/2.00e7e59d.chunk.js",
+    "static/css/main.66febb5e.chunk.css",
+    "static/js/main.c3711412.chunk.js"
+  ]
+}
